@@ -1,0 +1,1 @@
+An exercise app: A dot will appear in a random place on the screen for some time and the user should click it before it disappears. When the player clicks it disappears. If the dot disappears before the player has clicked on it, the game is over.
